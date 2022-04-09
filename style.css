@@ -124,11 +124,13 @@ body .background .content button {
   font-size: 18px;
 }
 
-body .background .output p {
+body .background .output {
   text-align: center;
+  font-size: 20px;
+  margin-bottom: 0px;
 }
 
-body .background .output p span {
+body .background .output span {
   color: #4b76c6;
 }
 /*# sourceMappingURL=style.css.map */
